@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "snapshot": "/Users/jacob/repos/script-applemusichistory/scripts/capture_current_snapshot.zsh --playlist-repo ."
+    "start": "npm run snapshot",
+    "snapshot": "~/repos/script-applemusichistory/scripts/capture_current_snapshot.zsh --playlist-repo ."
   }
 }
