@@ -24,7 +24,7 @@ For example, the recovered Time Machine state uses an author date of `2026-03-06
 
 This repo intentionally keeps capture logic out of the data history. The implementation lives in:
 
-`~/repos/script-applemusichistory`
+`~/repos/scripts/apple-music-history`
 
 From this directory, run:
 
@@ -35,7 +35,7 @@ npm run snapshot
 That command delegates to:
 
 ```zsh
-/Users/jacob/repos/script-applemusichistory/scripts/capture_current_snapshot.zsh --playlist-repo .
+/Users/jacob/repos/scripts/apple-music-history/scripts/capture_current_snapshot.zsh --playlist-repo .
 ```
 
 The default blank-commit policy is `auto`: if the playlist has not changed, create a blank commit only when the last commit is more than 24 hours old. That records that the state remained stable without creating junk commits in quick succession.
@@ -49,6 +49,9 @@ npm run snapshot -- --blank=never
 
 ## Notes
 
+- The checkout lives at `~/repos/apple-music-playlist-history`. The similarly named Drive item is a Finder alias, not a shell directory.
+- Capture commits locally. Run `git push` afterward to sync GitHub.
+- Only Favorite Songs is currently exported; this does not sync other playlists or modify Music.app.
 - Current snapshots read only the local Music.app library through Apple's `iTunesLibrary.framework`.
 - Time Machine and Backblaze recovery work belongs in the script repo, not here.
 - Commits should use `git cic` or include the configured Codex co-author trailer.
