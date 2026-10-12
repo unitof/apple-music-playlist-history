@@ -52,6 +52,7 @@ npm run snapshot -- --blank=never
 - The checkout lives at `~/repos/apple-music-playlist-history`. The similarly named Drive item is a Finder alias, not a shell directory.
 - Capture commits locally. Run `git push` afterward to sync GitHub.
 - Only Favorite Songs is currently exported; this does not sync other playlists or modify Music.app.
+- October 11, 2026 preflight found all persistent IDs changed since June. Exact title/artist/album multiset comparison showed 486 to 487 songs: only Tyler Lyle's Lakes of Canada (So, This is Christmas?) added, no removals. The cause of the ID change is unverified; ID-only diffs will misleadingly report every song replaced across this boundary.
 - Current snapshots read only the local Music.app library through Apple's `iTunesLibrary.framework`.
 - Time Machine and Backblaze recovery work belongs in the script repo, not here.
 - Commits should use `git cic` or include the configured Codex co-author trailer.
