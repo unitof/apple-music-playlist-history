@@ -49,6 +49,7 @@ npm run snapshot -- --blank=never
 
 ## Notes
 
+- Daily snapshots run via the native `com.unitof.apple-music-history` LaunchAgent at 10:00 AM local time, with scripts and installation instructions in `~/repos/scripts/apple-music-history`. No LLM is used. It captures local Favorite Songs and pushes this repository; it does not force Apple cloud resync.
 - The checkout lives at `~/repos/apple-music-playlist-history`. The similarly named Drive item is a Finder alias, not a shell directory.
 - Capture commits locally. Run `git push` afterward to sync GitHub.
 - Only Favorite Songs is currently exported; this does not sync other playlists or modify Music.app.
