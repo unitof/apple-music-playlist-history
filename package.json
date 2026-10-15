@@ -2,6 +2,6 @@
   "private": true,
   "scripts": {
     "start": "npm run snapshot",
-    "snapshot": "~/repos/scripts/apple-music-history/scripts/capture_current_snapshot.zsh --playlist-repo . --playlist 'Favorite Songs' --playlist Noggy"
+    "snapshot": "~/repos/scripts/apple-music-history/scripts/capture_current_snapshot.zsh --playlist-repo . --all-playlists"
   }
 }
