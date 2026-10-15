@@ -1,0 +1,1335 @@
+{
+  "playlists": [
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5.tsv",
+      "item_count": 13113,
+      "kind": 0,
+      "name": "Library",
+      "parent_id": null,
+      "persistent_id": "5",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/15728970906060448.tsv",
+      "item_count": 16,
+      "kind": 0,
+      "name": "East River Memorial",
+      "parent_id": null,
+      "persistent_id": "15728970906060448",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/212619029172135999.tsv",
+      "item_count": 3,
+      "kind": 0,
+      "name": "Portmant",
+      "parent_id": null,
+      "persistent_id": "212619029172135999",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/240106546987744425.tsv",
+      "item_count": 39,
+      "kind": 0,
+      "name": "I\u2019m Sibling of a Whitefish Christmas",
+      "parent_id": null,
+      "persistent_id": "240106546987744425",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/270357118997883338.tsv",
+      "item_count": 2,
+      "kind": 0,
+      "name": "Yearend\u2019s Week",
+      "parent_id": null,
+      "persistent_id": "270357118997883338",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/736088863964077802.tsv",
+      "item_count": 2,
+      "kind": 0,
+      "name": "Time signatures",
+      "parent_id": null,
+      "persistent_id": "736088863964077802",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/781757483283817311.tsv",
+      "item_count": 638,
+      "kind": 0,
+      "name": "Noggy (pre-cleanup)",
+      "parent_id": null,
+      "persistent_id": "781757483283817311",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/824678807460854379.tsv",
+      "item_count": 31,
+      "kind": 0,
+      "name": "Nate Ruess: The Songwriters",
+      "parent_id": null,
+      "persistent_id": "824678807460854379",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/855704165242322584.tsv",
+      "item_count": 0,
+      "kind": 0,
+      "name": "Hard Rock Doves",
+      "parent_id": null,
+      "persistent_id": "855704165242322584",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/864813968232803052.tsv",
+      "item_count": 202,
+      "kind": 0,
+      "name": "Adam Young",
+      "parent_id": null,
+      "persistent_id": "864813968232803052",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/888705912916092356.tsv",
+      "item_count": 0,
+      "kind": 0,
+      "name": "MusicHarbor (Sneak Peek)",
+      "parent_id": null,
+      "persistent_id": "888705912916092356",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "Noggy.tsv",
+      "item_count": 606,
+      "kind": 0,
+      "name": "Noggy",
+      "parent_id": null,
+      "persistent_id": "936582079723966797",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/1138888138643646962.tsv",
+      "item_count": 23,
+      "kind": 0,
+      "name": "Wintertape 2018 [in progress]",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "1138888138643646962",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/1476887565484074336.tsv",
+      "item_count": 20,
+      "kind": 0,
+      "name": "Playlist Preceding The End Of The World",
+      "parent_id": null,
+      "persistent_id": "1476887565484074336",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/1571335249968510217.tsv",
+      "item_count": 22,
+      "kind": 0,
+      "name": "Carols Covered 2021",
+      "parent_id": null,
+      "persistent_id": "1571335249968510217",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/1682463354869355624.tsv",
+      "item_count": 6,
+      "kind": 0,
+      "name": "Old School",
+      "parent_id": null,
+      "persistent_id": "1682463354869355624",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/1796810549250771706.tsv",
+      "item_count": 98,
+      "kind": 0,
+      "name": "Replay All Time",
+      "parent_id": null,
+      "persistent_id": "1796810549250771706",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/2110104135829547769.tsv",
+      "item_count": 24,
+      "kind": 0,
+      "name": "Carols Covered 2022",
+      "parent_id": null,
+      "persistent_id": "2110104135829547769",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/2120130806081150372.tsv",
+      "item_count": 44,
+      "kind": 0,
+      "name": "The Tattening",
+      "parent_id": null,
+      "persistent_id": "2120130806081150372",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 2,
+      "file": "playlists/2227448879442940875.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "TV Shows",
+      "parent_id": null,
+      "persistent_id": "2227448879442940875",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/2477771809627629218.tsv",
+      "item_count": 65,
+      "kind": 0,
+      "name": "Albums of Bikini Bottom 2021",
+      "parent_id": null,
+      "persistent_id": "2477771809627629218",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 1,
+      "file": "playlists/2687667465673662586.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Movies",
+      "parent_id": null,
+      "persistent_id": "2687667465673662586",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/2949101559649764258.tsv",
+      "item_count": 1,
+      "kind": 0,
+      "name": "Get Low",
+      "parent_id": null,
+      "persistent_id": "2949101559649764258",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/2980665191083594978.tsv",
+      "item_count": 12,
+      "kind": 0,
+      "name": "Rayan my eyes out",
+      "parent_id": null,
+      "persistent_id": "2980665191083594978",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3014025753277854819.tsv",
+      "item_count": 8,
+      "kind": 0,
+      "name": "Songs Not on Spotify",
+      "parent_id": null,
+      "persistent_id": "3014025753277854819",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3025069698610944255.tsv",
+      "item_count": 37,
+      "kind": 0,
+      "name": "Fighting in the Age of Loneliness",
+      "parent_id": null,
+      "persistent_id": "3025069698610944255",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3265032995414364651.tsv",
+      "item_count": 51,
+      "kind": 0,
+      "name": "Intermission Mood",
+      "parent_id": null,
+      "persistent_id": "3265032995414364651",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3322495546092815001.tsv",
+      "item_count": 10,
+      "kind": 0,
+      "name": "Carols Covered 2020",
+      "parent_id": null,
+      "persistent_id": "3322495546092815001",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3525487600564161651.tsv",
+      "item_count": 1,
+      "kind": 0,
+      "name": "Songs which reference each other",
+      "parent_id": null,
+      "persistent_id": "3525487600564161651",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3673310920042122184.tsv",
+      "item_count": 5,
+      "kind": 0,
+      "name": "Songs with a Walking Tempo",
+      "parent_id": null,
+      "persistent_id": "3673310920042122184",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3761991889154691488.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "New Music",
+      "parent_id": null,
+      "persistent_id": "3761991889154691488",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3769380026369065046.tsv",
+      "item_count": 115,
+      "kind": 0,
+      "name": "Hymns for Hipsters",
+      "parent_id": null,
+      "persistent_id": "3769380026369065046",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3778421179193860526.tsv",
+      "item_count": 74,
+      "kind": 0,
+      "name": "Release Radar",
+      "parent_id": null,
+      "persistent_id": "3778421179193860526",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3801029530580068183.tsv",
+      "item_count": 11,
+      "kind": 0,
+      "name": "theStudio",
+      "parent_id": null,
+      "persistent_id": "3801029530580068183",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3873813602926326590.tsv",
+      "item_count": 49,
+      "kind": 0,
+      "name": "AOBB: Certified Bangers",
+      "parent_id": null,
+      "persistent_id": "3873813602926326590",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/3883730944655964812.tsv",
+      "item_count": 327,
+      "kind": 0,
+      "name": "Colson\u2019s Little Pim Pams",
+      "parent_id": null,
+      "persistent_id": "3883730944655964812",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/4239658402370962744.tsv",
+      "item_count": 10,
+      "kind": 0,
+      "name": "Personally Certified Bangers \u2014 Expansion Pack",
+      "parent_id": null,
+      "persistent_id": "4239658402370962744",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/4268539218045272879.tsv",
+      "item_count": 2,
+      "kind": 0,
+      "name": "Moms",
+      "parent_id": null,
+      "persistent_id": "4268539218045272879",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/4287716657593371211.tsv",
+      "item_count": 22,
+      "kind": 0,
+      "name": "Critical Party Studies",
+      "parent_id": null,
+      "persistent_id": "4287716657593371211",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/4539309969102097693.tsv",
+      "item_count": 580,
+      "kind": 0,
+      "name": "Master Wave",
+      "parent_id": null,
+      "persistent_id": "4539309969102097693",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/4550240166957289156.tsv",
+      "item_count": 34,
+      "kind": 0,
+      "name": "MusicHarbor (Sneak Peek)",
+      "parent_id": null,
+      "persistent_id": "4550240166957289156",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/4901732982044542021.tsv",
+      "item_count": 40,
+      "kind": 0,
+      "name": "Carols Covered",
+      "parent_id": null,
+      "persistent_id": "4901732982044542021",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5229538624560559829.tsv",
+      "item_count": 1168,
+      "kind": 0,
+      "name": "Wordless",
+      "parent_id": null,
+      "persistent_id": "5229538624560559829",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5345246266280464115.tsv",
+      "item_count": 49,
+      "kind": 1,
+      "name": "Daytrotter",
+      "parent_id": null,
+      "persistent_id": "5345246266280464115",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5564847232999939462.tsv",
+      "item_count": 19,
+      "kind": 0,
+      "name": "All Lang Synes",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "5564847232999939462",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5820671425755778116.tsv",
+      "item_count": 23,
+      "kind": 0,
+      "name": "The Spectacular Sounds of Luna Luna",
+      "parent_id": null,
+      "persistent_id": "5820671425755778116",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5852590040007084724.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "MusicHarbor",
+      "parent_id": null,
+      "persistent_id": "5852590040007084724",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5861353499805780182.tsv",
+      "item_count": 1,
+      "kind": 0,
+      "name": "The Vriff",
+      "parent_id": null,
+      "persistent_id": "5861353499805780182",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5864137178246624838.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "Masterpieces in Obscure Time Signatures",
+      "parent_id": null,
+      "persistent_id": "5864137178246624838",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5926645548268554786.tsv",
+      "item_count": 10,
+      "kind": 0,
+      "name": "On the moon",
+      "parent_id": null,
+      "persistent_id": "5926645548268554786",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/5947601375912647774.tsv",
+      "item_count": 322,
+      "kind": 0,
+      "name": "Colson\u2019s Little Pim Pams",
+      "parent_id": null,
+      "persistent_id": "5947601375912647774",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6342413910132302580.tsv",
+      "item_count": 26,
+      "kind": 0,
+      "name": "Tyler Lyle's Eros High on Blood Moon",
+      "parent_id": null,
+      "persistent_id": "6342413910132302580",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6378239597512868676.tsv",
+      "item_count": 324,
+      "kind": 0,
+      "name": "James\u2019 Mix Tape",
+      "parent_id": null,
+      "persistent_id": "6378239597512868676",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6382718154989747220.tsv",
+      "item_count": 22,
+      "kind": 0,
+      "name": "songs adlan wake up w in my head",
+      "parent_id": null,
+      "persistent_id": "6382718154989747220",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6448605735816410151.tsv",
+      "item_count": 6,
+      "kind": 0,
+      "name": "First dances",
+      "parent_id": null,
+      "persistent_id": "6448605735816410151",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6528858816276463726.tsv",
+      "item_count": 7,
+      "kind": 0,
+      "name": "Nogless",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "6528858816276463726",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6572825353671812318.tsv",
+      "item_count": 16,
+      "kind": 0,
+      "name": "Flute of Shame",
+      "parent_id": null,
+      "persistent_id": "6572825353671812318",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6861875613641455122.tsv",
+      "item_count": 193,
+      "kind": 0,
+      "name": "EVG Loves Key Food",
+      "parent_id": null,
+      "persistent_id": "6861875613641455122",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/6991208244640880031.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "French baddies",
+      "parent_id": null,
+      "persistent_id": "6991208244640880031",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/7002590193214697071.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "Gorillaz Remixes and Covers Adventure",
+      "parent_id": null,
+      "persistent_id": "7002590193214697071",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/7120233752806868586.tsv",
+      "item_count": 11,
+      "kind": 0,
+      "name": "Desing",
+      "parent_id": null,
+      "persistent_id": "7120233752806868586",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/7405768466956044651.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "Rainy Day",
+      "parent_id": null,
+      "persistent_id": "7405768466956044651",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/7628980995253353767.tsv",
+      "item_count": 52,
+      "kind": 0,
+      "name": "Sleeping at Christmas",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "7628980995253353767",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 4,
+      "file": "playlists/7791376727339526390.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "7791376727339526390",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/7859957900635296239.tsv",
+      "item_count": 4,
+      "kind": 0,
+      "name": "My WhoSampled Tracks",
+      "parent_id": null,
+      "persistent_id": "7859957900635296239",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/7979576447637425095.tsv",
+      "item_count": 27,
+      "kind": 0,
+      "name": "MusicHarbor (Sneak Peek)",
+      "parent_id": null,
+      "persistent_id": "7979576447637425095",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/8152427727019339637.tsv",
+      "item_count": 1,
+      "kind": 0,
+      "name": "Grief",
+      "parent_id": null,
+      "persistent_id": "8152427727019339637",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/8478955924063698253.tsv",
+      "item_count": 0,
+      "kind": 0,
+      "name": "MusicHarbor (Sneak Peek)",
+      "parent_id": null,
+      "persistent_id": "8478955924063698253",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 16,
+      "file": "playlists/8538151186329430969.tsv",
+      "item_count": 0,
+      "kind": 0,
+      "name": "Purchased",
+      "parent_id": null,
+      "persistent_id": "8538151186329430969",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/8546437081621003963.tsv",
+      "item_count": 16,
+      "kind": 0,
+      "name": "Songs Containing Music Criticism",
+      "parent_id": null,
+      "persistent_id": "8546437081621003963",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/8815553689276161216.tsv",
+      "item_count": 115,
+      "kind": 3,
+      "name": "Seasonal",
+      "parent_id": null,
+      "persistent_id": "8815553689276161216",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/9134386187251453071.tsv",
+      "item_count": 439,
+      "kind": 0,
+      "name": "Vulfpeck Extended Discography",
+      "parent_id": null,
+      "persistent_id": "9134386187251453071",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/9259295647602579113.tsv",
+      "item_count": 3,
+      "kind": 0,
+      "name": "Masque",
+      "parent_id": null,
+      "persistent_id": "9259295647602579113",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 52,
+      "file": "Favorite Songs.tsv",
+      "item_count": 489,
+      "kind": 1,
+      "name": "Favorite Songs",
+      "parent_id": null,
+      "persistent_id": "9584822739311090422",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/9758390166187733629.tsv",
+      "item_count": 1029,
+      "kind": 0,
+      "name": "Wordless Chill",
+      "parent_id": null,
+      "persistent_id": "9758390166187733629",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/9885921403641076552.tsv",
+      "item_count": 16,
+      "kind": 0,
+      "name": "Project Nog v2016.A.02",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "9885921403641076552",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/9975326962059733941.tsv",
+      "item_count": 15,
+      "kind": 3,
+      "name": "Packages",
+      "parent_id": null,
+      "persistent_id": "9975326962059733941",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/10368035615842546502.tsv",
+      "item_count": 104,
+      "kind": 0,
+      "name": "Hymns",
+      "parent_id": null,
+      "persistent_id": "10368035615842546502",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/10400996593050162411.tsv",
+      "item_count": 4,
+      "kind": 0,
+      "name": "Nate Home",
+      "parent_id": null,
+      "persistent_id": "10400996593050162411",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/10583203850046659214.tsv",
+      "item_count": 9,
+      "kind": 0,
+      "name": "Aza\u2019s Resignation",
+      "parent_id": null,
+      "persistent_id": "10583203850046659214",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/10894789884957099794.tsv",
+      "item_count": 79,
+      "kind": 0,
+      "name": "30th Birthday Bash",
+      "parent_id": null,
+      "persistent_id": "10894789884957099794",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/11172942839566746571.tsv",
+      "item_count": 22,
+      "kind": 0,
+      "name": "Interstitial Amp Up",
+      "parent_id": null,
+      "persistent_id": "11172942839566746571",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/11240013142087953150.tsv",
+      "item_count": 2,
+      "kind": 0,
+      "name": "Christmas Little Pim Pams",
+      "parent_id": null,
+      "persistent_id": "11240013142087953150",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/11680823321631119513.tsv",
+      "item_count": 23,
+      "kind": 0,
+      "name": "Dead Media 2025",
+      "parent_id": null,
+      "persistent_id": "11680823321631119513",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/11897125071882032244.tsv",
+      "item_count": 66,
+      "kind": 0,
+      "name": "Gentle snow, walking through a cemetery",
+      "parent_id": null,
+      "persistent_id": "11897125071882032244",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12068189741277762032.tsv",
+      "item_count": 135,
+      "kind": 0,
+      "name": "Undercover",
+      "parent_id": null,
+      "persistent_id": "12068189741277762032",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 53,
+      "file": "playlists/12385668365320766006.tsv",
+      "item_count": 1,
+      "kind": 1,
+      "name": "TV & Movies",
+      "parent_id": null,
+      "persistent_id": "12385668365320766006",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12465369995249613797.tsv",
+      "item_count": 70,
+      "kind": 0,
+      "name": "Three Mile Islet",
+      "parent_id": null,
+      "persistent_id": "12465369995249613797",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12480668707323683976.tsv",
+      "item_count": 29,
+      "kind": 0,
+      "name": "Owl City C Sides",
+      "parent_id": null,
+      "persistent_id": "12480668707323683976",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12533612853185520402.tsv",
+      "item_count": 83,
+      "kind": 0,
+      "name": "Noggy not on Spotify?",
+      "parent_id": null,
+      "persistent_id": "12533612853185520402",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12632107487443546265.tsv",
+      "item_count": 15,
+      "kind": 0,
+      "name": "JT Daly: The Producers",
+      "parent_id": null,
+      "persistent_id": "12632107487443546265",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12664231089810678823.tsv",
+      "item_count": 6,
+      "kind": 0,
+      "name": "Dave Barnes // Love Songs",
+      "parent_id": "9975326962059733941",
+      "persistent_id": "12664231089810678823",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12675723257577290210.tsv",
+      "item_count": 81,
+      "kind": 0,
+      "name": "Solstice",
+      "parent_id": null,
+      "persistent_id": "12675723257577290210",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/12713903829890755209.tsv",
+      "item_count": 34,
+      "kind": 0,
+      "name": "Adam Young Summer 2023",
+      "parent_id": null,
+      "persistent_id": "12713903829890755209",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 49,
+      "file": "playlists/12799788792252441866.tsv",
+      "item_count": 61,
+      "kind": 1,
+      "name": "Music Videos",
+      "parent_id": null,
+      "persistent_id": "12799788792252441866",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13027208643134727015.tsv",
+      "item_count": 72,
+      "kind": 0,
+      "name": "MusicHarbor (Sneak Peek)",
+      "parent_id": null,
+      "persistent_id": "13027208643134727015",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13241793001254158464.tsv",
+      "item_count": 4,
+      "kind": 0,
+      "name": "Gunk",
+      "parent_id": null,
+      "persistent_id": "13241793001254158464",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13432156070238321574.tsv",
+      "item_count": 13,
+      "kind": 0,
+      "name": "Februareen",
+      "parent_id": null,
+      "persistent_id": "13432156070238321574",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13703797908769670618.tsv",
+      "item_count": 65,
+      "kind": 0,
+      "name": "Beatheart",
+      "parent_id": null,
+      "persistent_id": "13703797908769670618",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13880802800984034836.tsv",
+      "item_count": 1314,
+      "kind": 0,
+      "name": "My Shazam Tracks",
+      "parent_id": null,
+      "persistent_id": "13880802800984034836",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13901041423741365587.tsv",
+      "item_count": 21,
+      "kind": 0,
+      "name": "All Lang Synes",
+      "parent_id": null,
+      "persistent_id": "13901041423741365587",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13980020025130753446.tsv",
+      "item_count": 19,
+      "kind": 0,
+      "name": "Dear Catie,",
+      "parent_id": null,
+      "persistent_id": "13980020025130753446",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/13983145837950563088.tsv",
+      "item_count": 50,
+      "kind": 0,
+      "name": "JT Daly",
+      "parent_id": null,
+      "persistent_id": "13983145837950563088",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/14215227216124990799.tsv",
+      "item_count": 4,
+      "kind": 0,
+      "name": "Birdsong",
+      "parent_id": null,
+      "persistent_id": "14215227216124990799",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/14272039357277563990.tsv",
+      "item_count": 20,
+      "kind": 0,
+      "name": "Project Nog B Sides",
+      "parent_id": null,
+      "persistent_id": "14272039357277563990",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/14372783348950510180.tsv",
+      "item_count": 9,
+      "kind": 0,
+      "name": "2012 Christian Festival Playlist",
+      "parent_id": "9975326962059733941",
+      "persistent_id": "14372783348950510180",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/14930410533032639882.tsv",
+      "item_count": 21,
+      "kind": 0,
+      "name": "DeSuz",
+      "parent_id": null,
+      "persistent_id": "14930410533032639882",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/15211069163429265385.tsv",
+      "item_count": 6,
+      "kind": 0,
+      "name": "Wintertape 2017 [Side A]",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "15211069163429265385",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 50,
+      "file": "playlists/15584513560465672052.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Home Videos",
+      "parent_id": null,
+      "persistent_id": "15584513560465672052",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/15642114972516617042.tsv",
+      "item_count": 31,
+      "kind": 0,
+      "name": "Christmas Songs For An Arpeggiated Aftertaste",
+      "parent_id": null,
+      "persistent_id": "15642114972516617042",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16059527200979440620.tsv",
+      "item_count": 5,
+      "kind": 0,
+      "name": "5 Songs Mace Griffin Would Share With a Victorian Child",
+      "parent_id": null,
+      "persistent_id": "16059527200979440620",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16181053187910089612.tsv",
+      "item_count": 6,
+      "kind": 0,
+      "name": "merveilles.am",
+      "parent_id": null,
+      "persistent_id": "16181053187910089612",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16459237213785303006.tsv",
+      "item_count": 3,
+      "kind": 0,
+      "name": "Overfav",
+      "parent_id": null,
+      "persistent_id": "16459237213785303006",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 3,
+      "file": "playlists/16499160109959999099.tsv",
+      "item_count": 13112,
+      "kind": 1,
+      "name": "Music",
+      "parent_id": null,
+      "persistent_id": "16499160109959999099",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16531601525195822209.tsv",
+      "item_count": 12,
+      "kind": 0,
+      "name": "Safe Mode",
+      "parent_id": null,
+      "persistent_id": "16531601525195822209",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16679780385869755289.tsv",
+      "item_count": 22,
+      "kind": 0,
+      "name": "Christmas Project NY",
+      "parent_id": null,
+      "persistent_id": "16679780385869755289",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16695373013576579077.tsv",
+      "item_count": 15,
+      "kind": 0,
+      "name": "Project Nog v2016.A.01",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "16695373013576579077",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16701949962006056370.tsv",
+      "item_count": 17,
+      "kind": 0,
+      "name": "Sleeping At Last's Carnegie Hall Concert Set List",
+      "parent_id": null,
+      "persistent_id": "16701949962006056370",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16738404582753424893.tsv",
+      "item_count": 119,
+      "kind": 0,
+      "name": "A Very Indie Christmas",
+      "parent_id": null,
+      "persistent_id": "16738404582753424893",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16935845967724112892.tsv",
+      "item_count": 7,
+      "kind": 0,
+      "name": "Wintertape 2017 [Side B]",
+      "parent_id": "8815553689276161216",
+      "persistent_id": "16935845967724112892",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16938928760644653074.tsv",
+      "item_count": 2,
+      "kind": 0,
+      "name": "Defavorited",
+      "parent_id": null,
+      "persistent_id": "16938928760644653074",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/16951962789462338214.tsv",
+      "item_count": 31,
+      "kind": 0,
+      "name": "Reminds Sam of Her",
+      "parent_id": null,
+      "persistent_id": "16951962789462338214",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17007344901003996294.tsv",
+      "item_count": 15,
+      "kind": 0,
+      "name": "Few Words One",
+      "parent_id": null,
+      "persistent_id": "17007344901003996294",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17129402650082740252.tsv",
+      "item_count": 20,
+      "kind": 0,
+      "name": "Misc/Mix July '21",
+      "parent_id": null,
+      "persistent_id": "17129402650082740252",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17151555204491756969.tsv",
+      "item_count": 18,
+      "kind": 0,
+      "name": "Beatheart Holiday",
+      "parent_id": null,
+      "persistent_id": "17151555204491756969",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17352307377709814429.tsv",
+      "item_count": 12,
+      "kind": 0,
+      "name": "My Love Overflow",
+      "parent_id": null,
+      "persistent_id": "17352307377709814429",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17397775413401794982.tsv",
+      "item_count": 9,
+      "kind": 0,
+      "name": "MusicHarbor (Sneak Peek)",
+      "parent_id": null,
+      "persistent_id": "17397775413401794982",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17575460251667587516.tsv",
+      "item_count": 25,
+      "kind": 0,
+      "name": "Musical Journeys with JT Daly on Keys",
+      "parent_id": null,
+      "persistent_id": "17575460251667587516",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17579039735887398865.tsv",
+      "item_count": 28,
+      "kind": 0,
+      "name": "Pith",
+      "parent_id": null,
+      "persistent_id": "17579039735887398865",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17752524854548757422.tsv",
+      "item_count": 100,
+      "kind": 0,
+      "name": "Cover Stars",
+      "parent_id": null,
+      "persistent_id": "17752524854548757422",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/17892754522933311244.tsv",
+      "item_count": 4,
+      "kind": 0,
+      "name": "Sunrise Sets",
+      "parent_id": null,
+      "persistent_id": "17892754522933311244",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/18052173381680070733.tsv",
+      "item_count": 7,
+      "kind": 0,
+      "name": "On Melancholy Hill: Remixes and Covers",
+      "parent_id": null,
+      "persistent_id": "18052173381680070733",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 0,
+      "file": "playlists/18228838643243901551.tsv",
+      "item_count": 16,
+      "kind": 0,
+      "name": "Mom",
+      "parent_id": null,
+      "persistent_id": "18228838643243901551",
+      "visible": true
+    }
+  ],
+  "schema_version": 1
+}
