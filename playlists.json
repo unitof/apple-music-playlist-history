@@ -12,26 +12,6 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/15728970906060448.tsv",
-      "item_count": 16,
-      "kind": 0,
-      "name": "East River Memorial",
-      "parent_id": null,
-      "persistent_id": "15728970906060448",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/212619029172135999.tsv",
-      "item_count": 3,
-      "kind": 0,
-      "name": "Portmant",
-      "parent_id": null,
-      "persistent_id": "212619029172135999",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/240106546987744425.tsv",
       "item_count": 39,
       "kind": 0,
@@ -45,7 +25,7 @@
       "file": "playlists/270357118997883338.tsv",
       "item_count": 2,
       "kind": 0,
-      "name": "Yearend\u2019s Week",
+      "name": "Yearsend Week",
       "parent_id": null,
       "persistent_id": "270357118997883338",
       "visible": true
@@ -62,32 +42,12 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/781757483283817311.tsv",
-      "item_count": 638,
-      "kind": 0,
-      "name": "Noggy (pre-cleanup)",
-      "parent_id": null,
-      "persistent_id": "781757483283817311",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/824678807460854379.tsv",
       "item_count": 31,
       "kind": 0,
       "name": "Nate Ruess: The Songwriters",
       "parent_id": null,
       "persistent_id": "824678807460854379",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/855704165242322584.tsv",
-      "item_count": 0,
-      "kind": 0,
-      "name": "Hard Rock Doves",
-      "parent_id": null,
-      "persistent_id": "855704165242322584",
       "visible": true
     },
     {
@@ -102,18 +62,8 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/888705912916092356.tsv",
-      "item_count": 0,
-      "kind": 0,
-      "name": "MusicHarbor (Sneak Peek)",
-      "parent_id": null,
-      "persistent_id": "888705912916092356",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "Noggy.tsv",
-      "item_count": 606,
+      "item_count": 607,
       "kind": 0,
       "name": "Noggy",
       "parent_id": null,
@@ -146,7 +96,7 @@
       "item_count": 22,
       "kind": 0,
       "name": "Carols Covered 2021",
-      "parent_id": null,
+      "parent_id": "8815553689276161216",
       "persistent_id": "1571335249968510217",
       "visible": true
     },
@@ -176,18 +126,8 @@
       "item_count": 24,
       "kind": 0,
       "name": "Carols Covered 2022",
-      "parent_id": null,
+      "parent_id": "8815553689276161216",
       "persistent_id": "2110104135829547769",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/2120130806081150372.tsv",
-      "item_count": 44,
-      "kind": 0,
-      "name": "The Tattening",
-      "parent_id": null,
-      "persistent_id": "2120130806081150372",
       "visible": true
     },
     {
@@ -276,7 +216,7 @@
       "item_count": 10,
       "kind": 0,
       "name": "Carols Covered 2020",
-      "parent_id": null,
+      "parent_id": "8815553689276161216",
       "persistent_id": "3322495546092815001",
       "visible": true
     },
@@ -318,26 +258,6 @@
       "name": "Hymns for Hipsters",
       "parent_id": null,
       "persistent_id": "3769380026369065046",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/3778421179193860526.tsv",
-      "item_count": 74,
-      "kind": 0,
-      "name": "Release Radar",
-      "parent_id": null,
-      "persistent_id": "3778421179193860526",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/3801029530580068183.tsv",
-      "item_count": 11,
-      "kind": 0,
-      "name": "theStudio",
-      "parent_id": null,
-      "persistent_id": "3801029530580068183",
       "visible": true
     },
     {
@@ -392,16 +312,6 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/4539309969102097693.tsv",
-      "item_count": 580,
-      "kind": 0,
-      "name": "Master Wave",
-      "parent_id": null,
-      "persistent_id": "4539309969102097693",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/4550240166957289156.tsv",
       "item_count": 34,
       "kind": 0,
@@ -416,7 +326,7 @@
       "item_count": 40,
       "kind": 0,
       "name": "Carols Covered",
-      "parent_id": null,
+      "parent_id": "8815553689276161216",
       "persistent_id": "4901732982044542021",
       "visible": true
     },
@@ -448,26 +358,6 @@
       "name": "All Lang Synes",
       "parent_id": "8815553689276161216",
       "persistent_id": "5564847232999939462",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/5820671425755778116.tsv",
-      "item_count": 23,
-      "kind": 0,
-      "name": "The Spectacular Sounds of Luna Luna",
-      "parent_id": null,
-      "persistent_id": "5820671425755778116",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/5852590040007084724.tsv",
-      "item_count": 25,
-      "kind": 0,
-      "name": "MusicHarbor",
-      "parent_id": null,
-      "persistent_id": "5852590040007084724",
       "visible": true
     },
     {
@@ -512,26 +402,6 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/6342413910132302580.tsv",
-      "item_count": 26,
-      "kind": 0,
-      "name": "Tyler Lyle's Eros High on Blood Moon",
-      "parent_id": null,
-      "persistent_id": "6342413910132302580",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/6378239597512868676.tsv",
-      "item_count": 324,
-      "kind": 0,
-      "name": "James\u2019 Mix Tape",
-      "parent_id": null,
-      "persistent_id": "6378239597512868676",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/6382718154989747220.tsv",
       "item_count": 22,
       "kind": 0,
@@ -548,16 +418,6 @@
       "name": "First dances",
       "parent_id": null,
       "persistent_id": "6448605735816410151",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/6468709642490625723.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "6468709642490625723",
       "visible": true
     },
     {
@@ -642,16 +502,6 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/7859957900635296239.tsv",
-      "item_count": 4,
-      "kind": 0,
-      "name": "My WhoSampled Tracks",
-      "parent_id": null,
-      "persistent_id": "7859957900635296239",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/7979576447637425095.tsv",
       "item_count": 27,
       "kind": 0,
@@ -703,7 +553,7 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/8815553689276161216.tsv",
-      "item_count": 115,
+      "item_count": 190,
       "kind": 3,
       "name": "Seasonal",
       "parent_id": null,
@@ -721,16 +571,6 @@
       "visible": true
     },
     {
-      "distinguished_kind": 0,
-      "file": "playlists/9259295647602579113.tsv",
-      "item_count": 3,
-      "kind": 0,
-      "name": "Masque",
-      "parent_id": null,
-      "persistent_id": "9259295647602579113",
-      "visible": true
-    },
-    {
       "distinguished_kind": 52,
       "file": "Favorite Songs.tsv",
       "item_count": 489,
@@ -738,16 +578,6 @@
       "name": "Favorite Songs",
       "parent_id": null,
       "persistent_id": "9584822739311090422",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/9758390166187733629.tsv",
-      "item_count": 1029,
-      "kind": 0,
-      "name": "Wordless Chill",
-      "parent_id": null,
-      "persistent_id": "9758390166187733629",
       "visible": true
     },
     {
@@ -782,32 +612,12 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/10400996593050162411.tsv",
-      "item_count": 4,
-      "kind": 0,
-      "name": "Nate Home",
-      "parent_id": null,
-      "persistent_id": "10400996593050162411",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/10583203850046659214.tsv",
       "item_count": 9,
       "kind": 0,
       "name": "Aza\u2019s Resignation",
       "parent_id": null,
       "persistent_id": "10583203850046659214",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/10894789884957099794.tsv",
-      "item_count": 79,
-      "kind": 0,
-      "name": "30th Birthday Bash",
-      "parent_id": null,
-      "persistent_id": "10894789884957099794",
       "visible": true
     },
     {
@@ -821,13 +631,13 @@
       "visible": true
     },
     {
-      "distinguished_kind": 0,
-      "file": "playlists/11240013142087953150.tsv",
-      "item_count": 2,
-      "kind": 0,
-      "name": "Christmas Little Pim Pams",
+      "distinguished_kind": 4,
+      "file": "playlists/11323467782637663223.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
       "parent_id": null,
-      "persistent_id": "11240013142087953150",
+      "persistent_id": "11323467782637663223",
       "visible": true
     },
     {
@@ -948,16 +758,6 @@
       "name": "Music Videos",
       "parent_id": null,
       "persistent_id": "12799788792252441866",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/13027208643134727015.tsv",
-      "item_count": 72,
-      "kind": 0,
-      "name": "MusicHarbor (Sneak Peek)",
-      "parent_id": null,
-      "persistent_id": "13027208643134727015",
       "visible": true
     },
     {
@@ -1111,26 +911,6 @@
       "visible": true
     },
     {
-      "distinguished_kind": 0,
-      "file": "playlists/16181053187910089612.tsv",
-      "item_count": 6,
-      "kind": 0,
-      "name": "merveilles.am",
-      "parent_id": null,
-      "persistent_id": "16181053187910089612",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/16459237213785303006.tsv",
-      "item_count": 3,
-      "kind": 0,
-      "name": "Overfav",
-      "parent_id": null,
-      "persistent_id": "16459237213785303006",
-      "visible": true
-    },
-    {
       "distinguished_kind": 3,
       "file": "playlists/16499160109959999099.tsv",
       "item_count": 13112,
@@ -1138,26 +918,6 @@
       "name": "Music",
       "parent_id": null,
       "persistent_id": "16499160109959999099",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/16531601525195822209.tsv",
-      "item_count": 12,
-      "kind": 0,
-      "name": "Safe Mode",
-      "parent_id": null,
-      "persistent_id": "16531601525195822209",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/16679780385869755289.tsv",
-      "item_count": 22,
-      "kind": 0,
-      "name": "Christmas Project NY",
-      "parent_id": null,
-      "persistent_id": "16679780385869755289",
       "visible": true
     },
     {
@@ -1202,16 +962,6 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/16938928760644653074.tsv",
-      "item_count": 2,
-      "kind": 0,
-      "name": "Defavorited",
-      "parent_id": null,
-      "persistent_id": "16938928760644653074",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/16951962789462338214.tsv",
       "item_count": 31,
       "kind": 0,
@@ -1232,26 +982,6 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/17129402650082740252.tsv",
-      "item_count": 20,
-      "kind": 0,
-      "name": "Misc/Mix July '21",
-      "parent_id": null,
-      "persistent_id": "17129402650082740252",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/17151555204491756969.tsv",
-      "item_count": 18,
-      "kind": 0,
-      "name": "Beatheart Holiday",
-      "parent_id": null,
-      "persistent_id": "17151555204491756969",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/17352307377709814429.tsv",
       "item_count": 12,
       "kind": 0,
@@ -1262,42 +992,12 @@
     },
     {
       "distinguished_kind": 0,
-      "file": "playlists/17397775413401794982.tsv",
-      "item_count": 9,
-      "kind": 0,
-      "name": "MusicHarbor (Sneak Peek)",
-      "parent_id": null,
-      "persistent_id": "17397775413401794982",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
       "file": "playlists/17575460251667587516.tsv",
       "item_count": 25,
       "kind": 0,
       "name": "Musical Journeys with JT Daly on Keys",
       "parent_id": null,
       "persistent_id": "17575460251667587516",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/17579039735887398865.tsv",
-      "item_count": 28,
-      "kind": 0,
-      "name": "Pith",
-      "parent_id": null,
-      "persistent_id": "17579039735887398865",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 0,
-      "file": "playlists/17752524854548757422.tsv",
-      "item_count": 100,
-      "kind": 0,
-      "name": "Cover Stars",
-      "parent_id": null,
-      "persistent_id": "17752524854548757422",
       "visible": true
     },
     {
