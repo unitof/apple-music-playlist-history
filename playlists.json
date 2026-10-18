@@ -71,6 +71,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/958037552700346069.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "958037552700346069",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/1138888138643646962.tsv",
       "item_count": 23,
@@ -598,16 +608,6 @@
       "name": "Packages",
       "parent_id": null,
       "persistent_id": "9975326962059733941",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/10286332779626208280.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "10286332779626208280",
       "visible": true
     },
     {
