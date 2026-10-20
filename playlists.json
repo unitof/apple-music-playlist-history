@@ -3,7 +3,7 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/5.tsv",
-      "item_count": 13113,
+      "item_count": 13114,
       "kind": 0,
       "name": "Library",
       "parent_id": null,
@@ -98,16 +98,6 @@
       "name": "Carols Covered 2021",
       "parent_id": "8815553689276161216",
       "persistent_id": "1571335249968510217",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/1647735601753892412.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "1647735601753892412",
       "visible": true
     },
     {
@@ -391,6 +381,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/5871185604282195788.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "5871185604282195788",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/5926645548268554786.tsv",
       "item_count": 10,
@@ -583,7 +583,7 @@
     {
       "distinguished_kind": 52,
       "file": "Favorite Songs.tsv",
-      "item_count": 489,
+      "item_count": 490,
       "kind": 1,
       "name": "Favorite Songs",
       "parent_id": null,
@@ -913,7 +913,7 @@
     {
       "distinguished_kind": 3,
       "file": "playlists/16499160109959999099.tsv",
-      "item_count": 13112,
+      "item_count": 13113,
       "kind": 1,
       "name": "Music",
       "parent_id": null,
