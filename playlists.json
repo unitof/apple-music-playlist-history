@@ -3,7 +3,7 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/5.tsv",
-      "item_count": 13114,
+      "item_count": 13143,
       "kind": 0,
       "name": "Library",
       "parent_id": null,
@@ -88,16 +88,6 @@
       "name": "Playlist Preceding The End Of The World",
       "parent_id": null,
       "persistent_id": "1476887565484074336",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/1480185401098490027.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "1480185401098490027",
       "visible": true
     },
     {
@@ -273,7 +263,7 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/3873813602926326590.tsv",
-      "item_count": 49,
+      "item_count": 50,
       "kind": 0,
       "name": "AOBB: Certified Bangers",
       "parent_id": null,
@@ -288,6 +278,16 @@
       "name": "Colson\u2019s Little Pim Pams",
       "parent_id": null,
       "persistent_id": "3883730944655964812",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 4,
+      "file": "playlists/4188911539195033107.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "4188911539195033107",
       "visible": true
     },
     {
@@ -913,7 +913,7 @@
     {
       "distinguished_kind": 3,
       "file": "playlists/16499160109959999099.tsv",
-      "item_count": 13113,
+      "item_count": 13142,
       "kind": 1,
       "name": "Music",
       "parent_id": null,
