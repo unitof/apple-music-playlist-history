@@ -471,6 +471,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/7041892615592906971.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "7041892615592906971",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/7120233752806868586.tsv",
       "item_count": 11,
@@ -898,16 +908,6 @@
       "name": "5 Songs Mace Griffin Would Share With a Victorian Child",
       "parent_id": null,
       "persistent_id": "16059527200979440620",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/16335982082763359425.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "16335982082763359425",
       "visible": true
     },
     {
