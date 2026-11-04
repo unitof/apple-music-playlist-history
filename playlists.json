@@ -63,7 +63,7 @@
     {
       "distinguished_kind": 0,
       "file": "Noggy.tsv",
-      "item_count": 608,
+      "item_count": 607,
       "kind": 0,
       "name": "Noggy",
       "parent_id": null,
@@ -521,6 +521,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/8175619547394030184.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "8175619547394030184",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/8478955924063698253.tsv",
       "item_count": 0,
@@ -608,16 +618,6 @@
       "name": "Hymns",
       "parent_id": null,
       "persistent_id": "10368035615842546502",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/10426712758685362464.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "10426712758685362464",
       "visible": true
     },
     {
