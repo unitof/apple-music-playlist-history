@@ -521,16 +521,6 @@
       "visible": true
     },
     {
-      "distinguished_kind": 4,
-      "file": "playlists/8193628272394097470.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "8193628272394097470",
-      "visible": true
-    },
-    {
       "distinguished_kind": 0,
       "file": "playlists/8478955924063698253.tsv",
       "item_count": 0,
@@ -1028,6 +1018,16 @@
       "name": "On Melancholy Hill: Remixes and Covers",
       "parent_id": null,
       "persistent_id": "18052173381680070733",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 4,
+      "file": "playlists/18187202277133862511.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "18187202277133862511",
       "visible": true
     },
     {
