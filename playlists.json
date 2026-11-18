@@ -121,6 +121,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/2013134188973865061.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "2013134188973865061",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/2110104135829547769.tsv",
       "item_count": 24,
@@ -263,7 +273,7 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/3873813602926326590.tsv",
-      "item_count": 50,
+      "item_count": 49,
       "kind": 0,
       "name": "AOBB: Certified Bangers",
       "parent_id": null,
@@ -778,16 +788,6 @@
       "name": "Beatheart",
       "parent_id": null,
       "persistent_id": "13703797908769670618",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/13880209452210345472.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "13880209452210345472",
       "visible": true
     },
     {
