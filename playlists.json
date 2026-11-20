@@ -221,6 +221,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/3483171719956356950.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "3483171719956356950",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/3525487600564161651.tsv",
       "item_count": 1,
@@ -568,16 +578,6 @@
       "name": "Vulfpeck Extended Discography",
       "parent_id": null,
       "persistent_id": "9134386187251453071",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/9500745375145291263.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "9500745375145291263",
       "visible": true
     },
     {
