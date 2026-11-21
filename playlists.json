@@ -221,16 +221,6 @@
       "visible": true
     },
     {
-      "distinguished_kind": 4,
-      "file": "playlists/3483171719956356950.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "3483171719956356950",
-      "visible": true
-    },
-    {
       "distinguished_kind": 0,
       "file": "playlists/3525487600564161651.tsv",
       "item_count": 1,
@@ -333,9 +323,9 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/4901732982044542021.tsv",
-      "item_count": 42,
+      "item_count": 44,
       "kind": 0,
-      "name": "Carols Covered",
+      "name": "Carols Covered ",
       "parent_id": "8815553689276161216",
       "persistent_id": "4901732982044542021",
       "visible": true
@@ -563,7 +553,7 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/8815553689276161216.tsv",
-      "item_count": 191,
+      "item_count": 193,
       "kind": 3,
       "name": "Seasonal",
       "parent_id": null,
@@ -953,11 +943,21 @@
     {
       "distinguished_kind": 0,
       "file": "playlists/16738404582753424893.tsv",
-      "item_count": 115,
+      "item_count": 116,
       "kind": 0,
       "name": "A Very Indie Christmas",
       "parent_id": null,
       "persistent_id": "16738404582753424893",
+      "visible": true
+    },
+    {
+      "distinguished_kind": 4,
+      "file": "playlists/16812796148161059355.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "16812796148161059355",
       "visible": true
     },
     {
