@@ -401,6 +401,16 @@
       "visible": true
     },
     {
+      "distinguished_kind": 4,
+      "file": "playlists/6046355990019137329.tsv",
+      "item_count": 0,
+      "kind": 1,
+      "name": "Audiobooks",
+      "parent_id": null,
+      "persistent_id": "6046355990019137329",
+      "visible": true
+    },
+    {
       "distinguished_kind": 0,
       "file": "playlists/6382718154989747220.tsv",
       "item_count": 22,
@@ -498,16 +508,6 @@
       "name": "Sleeping at Christmas",
       "parent_id": "8815553689276161216",
       "persistent_id": "7628980995253353767",
-      "visible": true
-    },
-    {
-      "distinguished_kind": 4,
-      "file": "playlists/7821323294544399185.tsv",
-      "item_count": 0,
-      "kind": 1,
-      "name": "Audiobooks",
-      "parent_id": null,
-      "persistent_id": "7821323294544399185",
       "visible": true
     },
     {
